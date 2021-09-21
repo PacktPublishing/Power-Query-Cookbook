@@ -50,7 +50,7 @@ With the following software and hardware list you can run all code files present
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
 |  	1-10	   |   	Power BI Desktop and Power BI Gateway                                			  | Windows(Any) | 		
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801071871_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800569485_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
 * Learn Power BI  [[Packt]](https://www.packtpub.com/free-ebook/learn-power-bi/9781838644482) [[Amazon]](https://www.amazon.in/Learn-Power-developing-interactive-intelligence-ebook/dp/B07X32RJDB/ref=sr_1_2?dchild=1&keywords=Learn+Power+BI&qid=1631520425&sr=8-2)

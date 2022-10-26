@@ -63,3 +63,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Andrea Janicijevic** is a cloud solution architect and works in the world of analytics and business intelligence, constantly expanding her knowledge in the field of data. From the outset, she has been working on analytics platforms, helping clients to better adopt cloud technology across a wide range of industries and company sizes.
 She studied economics and management of innovation and technology at Bocconi University in Milan and during her studies, she started working at Microsoft in 2018.
 She began working with the Microsoft analytics platform, including Power BI, becoming a trusted technical advisor for business and technical users. She later started collaborating with Packt, accepting the challenge of sharing her experience with Power Query.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800569485">https://packt.link/free-ebook/9781800569485 </a> </p>
